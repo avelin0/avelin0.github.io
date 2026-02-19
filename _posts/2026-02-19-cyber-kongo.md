@@ -1,5 +1,8 @@
 # Resumo dos Desafios CTF - Exercício Cyber Kongo
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/79d1ea12-e54a-463e-85a9-c0b3a8ae5502" />
+
+
 Resumo dos achados técnicos extraídos durante dois dias de operação do CTF, divididos entre caça a ameaças (*Threat Hunting*) e resposta a incidentes (*Incident Response*). 
 
 ## Dia 1: Threat Hunting (Rastreamento de Ameaças)
