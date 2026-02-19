@@ -5,37 +5,37 @@ icon: fas fa-file-alt
 order: 1
 ---
 ### **Bruno Avelino**
-**Engenheiro da Computação | Cibersegurança, Inteligência Artificial e Engenharia de Sistemas**
+**Engenheiro da Computação | Cibersegurança, Inteligência Artificial, Engenharia de Software e Sistemas**
 📍 Brasília, Distrito Federal, Brasil
-📧 avel.bruno@gmail.com | 🔗 [LinkedIn](httos://www.linkedin.com/in/bruno-avelino-564282112) | 💻 [GitHub: avelin0](https://github.com/avelin0) | 🌐 [ORCID](https://orcid.org/0000-0003-3256-679X)
+📧 avel.bruno@gmail.com | 🔗 [LinkedIn](httos://www.linkedin.com/in/bruno-avelino-564282112) | 💻 [GitHub: avelin0](https://github.com/avelin0) | 🌐 [ORCID](https://orcid.org/0000-0003-3256-679X) | 🌐 [Lattes](https://orcid.org/0000-0003-3256-679X) 
 
 ---
 
 #### **Resumo Profissional**
-Engenheiro da Computação com sólida experiência em Cibersegurança, Desenvolvimento de Sistemas e Inteligência Artificial (Ciência de Dados e Otimização Computacional). Possui mestrado pelo Instituto Tecnológico de Aeronáutica (ITA), com foco em otimização de operações logísticas de drones e engenharia de sistemas. Atuação de destaque em ambientes de defesa, incluindo o Ministério da Defesa e o Exército Brasileiro, liderando projetos de segurança de redes, simulação de arquiteturas de segurança, resposta a incidentes e caça a ameaças (Threat Hunting).
+Engenheiro da Computação com experiência em Cibersegurança, Engenharia de Software e Sistemas, Inteligência Artificial (Inteligência Computacional). Possui mestrado pelo Instituto Tecnológico de Aeronáutica (ITA), com foco em otimização de rotamento de drones e Engenharia de Sistemas. Atuação em Projetos de Software de Defesa, liderando projetos de Segurança Cibernética, Simulação Computacional, Arquiteturas de Sistemas.
 
 ---
 
 #### **Principais Competências**
-*   **Cibersegurança:** Arquitetura de Segurança, Simulação de Segurança, Resposta a Incidentes, Caça a Ameaças (*Threat Hunting*), Análise Forense Digital e Operações CTF.
+*   **Cibersegurança:** Arquitetura de Segurança, Simulação de Exercícios Cibernéticos,  Resposta a Incidentes, Caça a Ameaças (*Threat Hunting*), Análise Forense Digital e Operações CTF.
 *   **Inteligência Artificial & Dados:** Otimização Computacional, Ciência de Dados em Metaheurísticas, Otimização Evolutiva e Algoritmos de Metaheurísticas. 
-*   **Engenharia de Sistemas & Software:** Engenharia de Sistemas Baseada em Modelos, Desenvolvimento Java/Swift/C++, Integração de Realidade Virtual (VR) e Aumentada (AR) e Simulação Virtual.
+*   **Engenharia de Software & Sistemas :** Engenharia de Sistemas Baseada em Modelos, Desenvolvimento C++/Python/Java/Swift/Android, Integração de Realidade Virtual (VR) e Aumentada (AR) e Simulação Virtual.
 
 ---
 
 #### **Experiência Profissional**
 
-**Ministério da Defesa** | *Cyber Security Engineer*
+**Comando de Defesa Cibernética** | *Cyber Security Engineer*
 📅 *Janeiro de 2026 – Presente*
-*   Atuação focada na engenharia de segurança cibernética em nível estratégico e governamental.
+*   Atuação focada na engenharia de segurança cibernética, IA e Computação Quântica em nível estratégico e de pesquisa.
 
 **Centro de Desenvolvimento de Sistemas (CDS)** | *Engenheiro de Software*
 📅 *Setembro de 2024 – Janeiro de 2026* | 📍 *Brasília, Brasil*
-*   Atuação na área de engenharia de software e desenvolvimento de sistemas.
+*   Atuação na área de engenharia de Software e Sistemas Aplicado ao Simulador Simaf 2 e Sis-Astros.
 
 **Exército Brasileiro** | *Network Security Engineer*
 📅 *Fevereiro de 2020 – Janeiro de 2022* | 📍 *Paraná, Brasil*
-*   Desenvolvimento de atividades ligadas à segurança de redes no âmbito do Exército.
+*   Desenvolvimento de atividades ligadas à Segurança de Redes, Pentest de Aplicaçoes Web, Análise Forense, SIEM ELK, no âmbito do 11º Centro de Telemática.
 
 **Centro de Instrução de Aviação do Exército (CIAvEx)** | *Chefe da Seção de Ensino Assistido por Computador (SEAC)* e *Adjunto de Engenharia*
 📅 *Fevereiro de 2018 – Fevereiro de 2020* | 📍 *Taubaté, Brasil*
@@ -57,7 +57,7 @@ Engenheiro da Computação com sólida experiência em Cibersegurança, Desenvol
 **Instituto Tecnológico de Aeronáutica (ITA)**
 🎓 *Mestrado (MSc) em Infraestrutura Aeronáutica*
 📅 *Janeiro de 2022 – Março de 2024*
-*   **Foco:** Otimização Computacional e Engenharia de Sistemas.
+*   **Foco:** Inteligência Computacional e Engenharia de Sistemas.
 *   **Dissertação:** *"A Hybrid Airspace Modeling for Using Drones in Logistics Operations"* (Modelagem Híbrida de Espaço Aéreo para Uso de Drones em Operações Logísticas).
 *   **Disciplinas de Destaque:** Engenharia de Sistemas Baseada em Modelos (Nota: 9.5), Ciência de Dados em Metaheurísticas (Nota: 9.5), Metaheurísticas em Otimização Combinatória (Nota: 10) e Otimização Evolutiva (Conceito A).
 
@@ -74,9 +74,9 @@ Engenheiro da Computação com sólida experiência em Cibersegurança, Desenvol
 #### **Certificações, Cursos e Projetos**
 
 *   **Segurança Ofensiva e Forense:** Desenvolvimento de Exploits (Buffer Overflow Windows e Linux), Web API Exploitation, Digital Forensics.
-*   **Desenvolvimento de Software:** C++ Essential 2 (Intermediate Level), Mastering ARKit for iOS.
+*   **Desenvolvimento de Software:** C++ Essential 1 e 2 (Intermediate Level),  Python 1, Mastering ARKit for iOS.
 *   **Projetos GitHub:** Contribuições em repositórios de Java (*SEGSEG*) e Swift (*povirtual*).
-*   **Exercícios Cibernéticos:** Participação e resolução técnica no exercício "Cyber Kongo" CTF (Capture The Flag), conduzindo operações de *Threat Hunting* e Resposta a Incidentes.
+*   **Exercícios Cibernéticos:** Participação e resolução técnica no exercício "Cyber Kongo" CTF (Capture The Flag),  conduzindo operações de *Threat Hunting* e Resposta a Incidentes.
 
 ---
 
