@@ -7,7 +7,7 @@ order: 1
 ### **Bruno Avelino**
 **Engenheiro da Computação | Cibersegurança, Inteligência Artificial e Engenharia de Sistemas**
 📍 Brasília, Distrito Federal, Brasil
-📧 avel.bruno@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/bruno-avelino-564282112) | 💻 [GitHub: avelin0](https://github.com/avelin0) | 🌐 [ORCID](https://orcid.org/0000-0003-3256-679X)
+📧 avel.bruno@gmail.com | 🔗 [LinkedIn](httos://www.linkedin.com/in/bruno-avelino-564282112) | 💻 [GitHub: avelin0](https://github.com/avelin0) | 🌐 [ORCID](https://orcid.org/0000-0003-3256-679X)
 
 ---
 
