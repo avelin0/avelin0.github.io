@@ -65,5 +65,3 @@ A investigação final nos artefatos de disco e logs de autenticação permitiu 
 
 ---
 
-### Observação sobre IA e Simulador de CIF
-Reitero que, mesmo com a inclusão dos documentos do Dia 3, **não foram encontradas menções** ao uso de "Simulador de CIF" ou "Otimização via Inteligência Artificial". O exercício seguiu um fluxo estritamente técnico de análise manual e uso de scripts (Python/Bash) para automação de tarefas forenses específicas, como a decodificação XOR.
