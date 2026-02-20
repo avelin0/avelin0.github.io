@@ -19,7 +19,7 @@ Engenheiro da Computação com experiência em Cibersegurança, Engenharia de So
 #### **Principais Competências**
 *   **Cibersegurança:** Arquitetura de Segurança, Simulação de Exercícios Cibernéticos,  Resposta a Incidentes, Caça a Ameaças (*Threat Hunting*), Análise Forense Digital e Operações CTF.
 *   **Inteligência Artificial & Dados:** Otimização Computacional, Ciência de Dados em Metaheurísticas, Otimização Evolutiva e Algoritmos de Metaheurísticas. 
-*   **Engenharia de Software & Sistemas :** Engenharia de Sistemas Baseada em Modelos, Desenvolvimento C++/Python/Java/Swift/Android, Integração de Realidade Virtual (VR) e Aumentada (AR) e Simulação Virtual.
+*   **Engenharia de Software & Sistemas :** Engenharia de Sistemas Baseada em Modelos, Desenvolvimento C++/Python/Flutter/Java/Swift/Android, Integração de Realidade Virtual (VR) e Aumentada (AR) e Simulação Virtual.
 
 ---
 
@@ -37,7 +37,7 @@ Engenheiro da Computação com experiência em Cibersegurança, Engenharia de So
 📅 *Fevereiro de 2020 – Janeiro de 2022* | 📍 *Paraná, Brasil*
 *   Desenvolvimento de atividades ligadas à Segurança de Redes, Pentest de Aplicaçoes Web, Análise Forense, SIEM ELK, no âmbito do 11º Centro de Telemática.
 
-**Centro de Instrução de Aviação do Exército (CIAvEx)** | *Chefe da Seção de Ensino Assistido por Computador (SEAC)* e *Adjunto de Engenharia*
+**Centro de Instrução de Aviação do Exército (CIAvEx)** | *Chefe da Seção de Ensino Assistido por Computador (SEAC)* 
 📅 *Fevereiro de 2018 – Fevereiro de 2020* | 📍 *Taubaté, Brasil*
 *   Liderou a produção de ferramentas de ensino utilizando tecnologias avançadas, como Realidade Virtual e Realidade Aumentada.
 *   Empregou a simulação virtual no treinamento de pilotos de helicóptero, modelando problemas militares táticos para mitigação de riscos e resolução de problemas sob comando.
@@ -76,7 +76,7 @@ Engenheiro da Computação com experiência em Cibersegurança, Engenharia de So
 *   **Segurança Ofensiva e Forense:** Desenvolvimento de Exploits (Buffer Overflow Windows e Linux), Web API Exploitation, Digital Forensics.
 *   **Desenvolvimento de Software:** C++ Essential 1 e 2 (Intermediate Level),  Python 1, Mastering ARKit for iOS.
 *   **Projetos GitHub:** Contribuições em repositórios de Java (*SEGSEG*) e Swift (*povirtual*).
-*   **Exercícios Cibernéticos:** Participação e resolução técnica no exercício "Cyber Kongo" CTF (Capture The Flag),  conduzindo operações de *Threat Hunting* e Resposta a Incidentes.
+*   **Exercícios Cibernéticos:** Participação e resolução no Exercício "Cyber Kongo"
 
 ---
 
