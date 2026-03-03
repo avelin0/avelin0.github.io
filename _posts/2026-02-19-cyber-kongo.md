@@ -6,6 +6,45 @@
 
 # Resumo do Exercício Cyber Kongo (Dias 1, 2 e 3)
 
+```mermaid
+sequenceDiagram
+    autonumber
+    participant A as Atacante (satoshi.nakamoto)
+    participant E as Perímetro / Web / DevOps
+    participant AD as Active Directory (yachiyoni.local)
+    participant H as Hosts (Linux/Windows)
+    participant D as Equipe de Defesa (Blue Team)
+
+    Note over A, D: Dia 1: Threat Hunting (Kill Chain Inicial)
+    
+    A->>E: Exploração CVE-2025-55182 (React2Shell)
+    E->>H: Download xmrig (Minerador) e Chisel (Túnel)
+    A->>E: Envio de Phishing (network-diagram.html)
+    E->>A: Captura de configurações VPN (Senhas cleartext)
+    A->>E: Brute Force GitLab e CVE-2026-21858 (n8n)
+    E->>A: Extração de chaves SSH (jh-private)
+    D->>E: Análise de nodejs-debug.log e logs de e-mail
+
+    Note over A, D: Dia 2: Incident Response (Movimentação e AD)
+
+    A->>AD: Varredura Nmap e Mapeamento BloodHound
+    A->>AD: Ataque ESC1 (SAN Impersonation)
+    A->>AD: Criação de Golden Ticket (Comprometimento krbtgt)
+    A->>H: Escala de privilégios e dumping LSASS
+    A->>H: Anti-forense (shred .bash_history)
+    D->>AD: Detecção de LocalAccountTokenFilterPolicy alterado
+    D->>H: Identificação de VirTool:Win32/DumpLsassProc.C
+
+    Note over A, D: Dia 3: Response Action (Forense e Exfiltração)
+
+    A->>A: Estabelecimento de C2 Beaconing (13.13.13.30)
+    A->>E: Exfiltração via DNS Tunneling (TXT records)
+    A->>E: Upload de backup_2024_12.zip via FTP
+    D->>D: Análise PCAP (Wireshark/Tshark)
+    D->>D: Script Python para Brute-force XOR (Decodificação DNS)
+    D->>A: Atribuição final via Fingerprint SSH (satoshi.nakamoto)
+```
+
 Este relatório compila os achados técnicos de três dias de operação, cobrindo desde a detecção inicial (*Threat Hunting*), passando pela resposta a incidentes no Active Directory (*Incident Response*) até a análise forense de rede e exfiltração de dados (*Response Actions*).
 
 ## Dia 1: Threat Hunting (Rastreamento de Ameaças)
