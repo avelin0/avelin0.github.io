@@ -4,9 +4,9 @@
 
 ---
 
-# Resumo do Exercício Cyber Kongo (Dias 1, 2 e 3)
+# Exercício Cyber Kongo (Dias 1, 2 e 3)
 
-Este relatório compila os achados técnicos de três dias de operação, cobrindo desde a detecção inicial (*Threat Hunting*), passando pela resposta a incidentes no Active Directory (*Incident Response*) até a análise forense de rede e exfiltração de dados (*Response Actions*).
+Achados técnicos de três dias de operação, cobrindo desde a detecção inicial (*Threat Hunting*), passando pela resposta a incidentes no Active Directory (*Incident Response*) até a análise forense de rede e exfiltração de dados (*Response Actions*). Durante esses três dias revelou-se uma operação de alta complexidade que explorou falhas críticas (DevOps/n8n) e na gestão de identidade do Active Directory, culminando no controle total do domínio via técnicas como ESC1 e Golden Ticket. A transição da exploração inicial de vulnerabilidades Web para a movimentação lateral silenciosa demonstra um adversário com forte consciência forense, que utilizou túneis DNS e cifragem XOR para exfiltrar dados sensíveis de forma furtiva. O sucesso da equipe de defesa na fase final, ao reconstruir o tráfego de rede e realizar a atribuição via fingerprint de SSH, destaca a importância da análise forense profunda e do desenvolvimento de scripts customizados para quebrar camadas de ofuscação que ferramentas automatizadas de segurança muitas vezes ignoram.
 
 <img width="8192" height="5590" alt="Energy Flow in Ecosystem-2026-03-03-132845" src="https://github.com/user-attachments/assets/fabd5acf-bc5f-4a91-9c13-7e2fba922fdc" />
 
