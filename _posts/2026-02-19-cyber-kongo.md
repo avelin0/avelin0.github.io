@@ -8,6 +8,9 @@
 
 Este relatório compila os achados técnicos de três dias de operação, cobrindo desde a detecção inicial (*Threat Hunting*), passando pela resposta a incidentes no Active Directory (*Incident Response*) até a análise forense de rede e exfiltração de dados (*Response Actions*).
 
+<img width="8192" height="5590" alt="Energy Flow in Ecosystem-2026-03-03-132845" src="https://github.com/user-attachments/assets/fabd5acf-bc5f-4a91-9c13-7e2fba922fdc" />
+
+
 ## Dia 1: Threat Hunting (Rastreamento de Ameaças)
 
 A primeira fase focou na reconstrução da cadeia de ataque inicial (Kill Chain) através de logs de aplicação e servidores de e-mail.
