@@ -6,8 +6,6 @@
 
 # Resumo do Exercício Cyber Kongo (Dias 1, 2 e 3)
 
-<img width="2840" height="6500" alt="diagrama-sequencia" src="https://github.com/user-attachments/assets/df50e488-e94a-467f-b267-76e6133eed94" />
-
 Este relatório compila os achados técnicos de três dias de operação, cobrindo desde a detecção inicial (*Threat Hunting*), passando pela resposta a incidentes no Active Directory (*Incident Response*) até a análise forense de rede e exfiltração de dados (*Response Actions*).
 
 ## Dia 1: Threat Hunting (Rastreamento de Ameaças)
