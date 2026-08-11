@@ -1,6 +1,7 @@
 # Resumo dos Desafios CTF - Exercício Cyber Kongo
 
-<img width="335" height="407" alt="image" src="https://github.com/user-attachments/assets/ff710168-280f-4dad-a77b-2212e0a8c8da" />
+<center> <img width="335" height="407" alt="image" src="https://github.com/user-attachments/assets/ff710168-280f-4dad-a77b-2212e0a8c8da" /> </center>
+
 
 ---
 
