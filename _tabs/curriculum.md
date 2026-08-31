@@ -42,7 +42,7 @@ Engenheiro da Computação com experiência em Cibersegurança, Engenharia de So
 *   Liderou a produção de ferramentas de ensino utilizando tecnologias avançadas, como Realidade Virtual e Realidade Aumentada.
 *   Empregou a simulação virtual no treinamento de pilotos de helicóptero, modelando problemas militares táticos para mitigação de riscos e resolução de problemas sob comando.
 
-** [Eyllo](https://www.eyllo.com.br/eyllo-produtos.html) ** | *Estagiário de Engenharia de Software*
+[Eyllo](https://www.eyllo.com.br/eyllo-produtos.html) | *Estagiário de Engenharia de Software*
 📅 *Outubro de 2016 – Dezembro de 2016*
 *   Desenvolveu novas funcionalidades para o Projeto Vista em dispositivos Epson BT-200, integrando detecção de texto (IA/Visão Computacional), leitura de QRCode e captura de fotos.
 
